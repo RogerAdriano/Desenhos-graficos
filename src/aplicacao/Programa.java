@@ -3,7 +3,7 @@ package aplicacao;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-public class Programa {
+public class Programa {          // Usuario escolhe a forma desejada e o programa exibe na tela(Circulos e Retangulos).
 
 	public static void main(String[] args) {
 		

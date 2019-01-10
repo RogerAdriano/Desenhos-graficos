@@ -3,7 +3,7 @@ package aplicacao;
 import java.awt.Graphics;
 import javax.swing.JPanel;
 
-public class Shapes extends JPanel {
+public class Shapes extends JPanel {    
 	
 	private int choice;
 	
